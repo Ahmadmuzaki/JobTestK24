@@ -1,0 +1,11 @@
+<TextView android:id="@+id/desain_list"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="?android:attr/listPreferredItemHeight"
+    android:layout_width="fill_parent"
+    android:textSize="20sp"
+    android:gravity="left"
+    android:paddingStart="20dp"
+    android:paddingTop="20dp"
+    android:background="@drawable/custom_input"
+    android:textColor="#ffffff"
+    android:paddingLeft="20dp" />

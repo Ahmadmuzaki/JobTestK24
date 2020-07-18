@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">JobTestk24</string>
+    <string name="keluar">Keluar</string>
+    <string name="selamat_datang">Selamat Datang</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="logout">logout</string>
+    <string name="text_login">Login Member</string>
+    <string name="login">login</string>
+    <string name="register">Daftar</string>
+    <string name="text_register">Daftar</string>
+    <string name="konfirmasi_password">Konfirmasi password</string>
+    <string name="password_regis">Password</string>
+    <string name="login_regis">Kembali</string>
+    <string name="halaman_admin">Halaman Admin</string>
+    <string name="logout_admin">Logout</string>
+    <string name="gambalogo">gambalogo</string>
+    <string name="keterangan_daf">Belum memiliki akun? Silahkan</string>
+    <string name="nama_regis">Nama</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="alamat_regis">Alamat</string>
+    <string name="jenis_kelamin_regis">Jenis Kelamin</string>
+    <string name="kembali">Kembali</string>
+    <string name="simpan_tambah">Simpan</string>
+    <string name="tambah_data">Tambah Data</string>
+    <string name="lihat_nama">Nama</string>
+    <string name="lihat_tanggal_lahir">Tanggal Lahir</string>
+    <string name="lihat_alamat">Alamat</string>
+    <string name="lihat_jenis_kelamin">Jenis Kelamin</string>
+    <string name="lihat_username">Username</string>
+    <string name="lihat_password">Password</string>
+    <string name="btn_kembali_lihat">Kembali</string>
+    <string name="lihat_data_member">Data Member</string>
+    <string name="kode_member">Kode Member</string>
+</resources>
